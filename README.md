@@ -1,2 +1,2 @@
-# Object_detection-
+# Object_detection
 Object Detection  using YOLOv8 
